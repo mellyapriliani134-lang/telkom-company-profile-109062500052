@@ -17,10 +17,11 @@ database, sedangkan pesan pengguna disimpan menggunakan prepared statement.</p>
         <div class="alert alert-success">Konten institusi pada website ini bersifat simulasi untuk keperluan praktikum.</div> 
         </div> 
 </section> 
-<?php require 'includes/footer.php'; ?>
         <h2>Fokus Pembelajaran</h2>
 <ul>
     <li>Version control dengan Git dan GitHub</li>
     <li>Pengembangan web dengan PHP native</li>
     <li>Pengelolaan data dengan MySQL/MariaDB</li>
 </ul>
+<?php require 'includes/footer.php'; ?>
+       
