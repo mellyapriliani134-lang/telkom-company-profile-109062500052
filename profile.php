@@ -18,3 +18,9 @@ database, sedangkan pesan pengguna disimpan menggunakan prepared statement.</p>
         </div> 
 </section> 
 <?php require 'includes/footer.php'; ?>
+        <h2>Fokus Pembelajaran</h2>
+<ul>
+    <li>Version control dengan Git dan GitHub</li>
+    <li>Pengembangan web dengan PHP native</li>
+    <li>Pengelolaan data dengan MySQL/MariaDB</li>
+</ul>
